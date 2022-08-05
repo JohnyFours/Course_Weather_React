@@ -1,0 +1,9 @@
+{
+  "apiCall": "https://api.openweathermap.org/data/2.5/weather",
+  "query": "?q=",
+  "dailyCall": "https://api.openweathermap.org/data/2.5/onecall?",
+  "daily": "&exclude=daily",
+  "API_KEY": "&appid=3f015557a1dd0d45362802be4a9b6407",
+  "imgUrl": "https://openweathermap.org/img/wn/",
+  "noImage": "https://image.freepik.com/free-vector/man-sitting-on-big-question-mark-symbol_24381-1192.jpg"
+}

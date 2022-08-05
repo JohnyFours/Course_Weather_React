@@ -1,0 +1,70 @@
+.cardContainer {
+  padding-top: 9vh;
+  padding-bottom: 6vh;
+}
+.navLink {
+  color: #ffffffc4;
+  text-decoration: none;
+  width: fit-content;
+  padding: 0;
+}
+
+.navLink:hover {
+  color: white;
+  transform: scale(1.01);
+}
+
+.lustUpdate {
+  color: #ff3800;
+  font-size: 0.7rem;
+  margin-bottom: 0.3rem !important;
+}
+.cityCountry,
+.temp {
+  font-size: 1.5rem;
+  font-weight: 500;
+}
+.card {
+  width: 15rem;
+  border-radius: 0.5rem;
+  background: rgba(0, 0, 0, 0.05);
+  margin: 0.2rem;
+}
+
+.feelsLike {
+  font-weight: 500;
+}
+.wrapInfoData {
+  list-style: none;
+  padding: 0;
+}
+.infoData {
+  font-size: 0.9rem;
+}
+
+.infoDataSun {
+  margin-top: 0.3rem;
+  vertical-align: middle;
+  display: flex;
+}
+.row {
+  justify-content: center;
+}
+
+.wrapBtn {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-content: center;
+  margin-bottom: 0.3rem;
+}
+.cardBtn {
+  padding: 0;
+  background: transparent;
+  border: none;
+  color: white;
+}
+
+.cardBtn:hover {
+  color: rgb(201, 201, 201);
+}
